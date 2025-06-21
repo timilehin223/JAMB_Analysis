@@ -50,13 +50,13 @@ Based on these insights, actionable recommendations are provided for:
 * **Parents & Guardians:** Encouraging supportive study environments, attendance, and IT exposure.
 * **Policymakers & Institutions:** Addressing socioeconomic disparities and investing in quality teaching and universal IT literacy.
 
-*(For detailed recommendations, please refer to the "Conclusions and Recommendations" section within the project files.)*
+*(For detailed recommendations, please refer to the Documentation)*
 
 ## Files in this Repository
 
 * `JAMB_UTME_Performance_Analysis_Project.xlsx`: The main Excel workbook containing the raw data, cleaned data, Power Pivot data model, DAX measures, PivotTables, and the interactive dashboard.
 * `README.md`: This file.
-* `JAMB Analysis Documentation.pdf`*
+* `JAMB Analysis Documentation.pdf`
 
 ## Tools Used
 
